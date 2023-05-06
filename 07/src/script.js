@@ -18,8 +18,8 @@ window.addEventListener('mousemove', (event)=>{
 })
 // Sizes
 const sizes = {
-    width: window.innerWidth,
-    height:window.innerHeight,
+    width: 800,
+    height: 600
 }
 
 // Scene
