@@ -6,6 +6,7 @@ import * as THREE from 'three'
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
 console.log('test')
+
 // Sizes
 const sizes = {
     width: 800,
